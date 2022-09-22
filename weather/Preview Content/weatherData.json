@@ -1,0 +1,49 @@
+{
+  "coord":{
+    "lon":32.5,
+    "lat":38.1667
+  },
+  "weather":[
+    {
+      "id":500,
+      "main":"Rain",
+      "description":"light rain",
+      "icon":"10n"
+    }
+  ],
+  "base":"stations",
+  "main":{
+    "temp":19.71,
+    "feels_like":19.04,
+    "temp_min":19.71,
+    "temp_max":19.71,
+    "pressure":1009,
+    "humidity":50,
+    "sea_level":1009,
+    "grnd_level":875
+  },
+  "visibility":10000,
+  "wind":{
+    "speed":3.61,
+    "deg":324,
+    "gust":4.5
+  },
+  "rain":{
+    "1h":0.87
+  },
+  "clouds":{
+    "all":91
+  },
+  "dt":1663778543,
+  "sys":{
+    "type":1,
+    "id":6957,
+    "country":"TR",
+    "sunrise":1663731396,
+    "sunset":1663775391
+  },
+  "timezone":10800,
+  "id":306569,
+  "name":"Konya Province",
+  "cod":200
+}
